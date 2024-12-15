@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "QA ORTAMINA HOŞGELDİNİZ!!!"
+  contactDetails:
+    name: "Tarık Hamarat"
+    email: "trkhamarat@gmail.com"
+  onCallSupport:
+    -(QQQ)555-1234
+    -(QQQ)523-1345

@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "TEST ORTAMINA HOŞGELDİNİZ!!!"
+  contactDetails:
+    name: "Tarık Hamarat"
+    email: "trkhamarat@gmail.com"
+  onCallSupport:
+    -(TTT)555-1234
+    -(TTT)523-1345

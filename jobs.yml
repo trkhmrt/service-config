@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+jobs:
+  message: "PROD ORTAMINA HOŞGELDİNİZ!!!"
+  contactDetails:
+    name: "Tarık Hamarat"
+    email: "trkhamarat@gmail.com"
+  onCallSupport:
+    -(555)555-1234
+    -(555)523-1345
