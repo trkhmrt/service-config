@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 jobs:
-  message: "BURASI QA ORTAMI,TEST ORTAMINA HOŞGELDİNİZ...!!!"
+  message: "BURASI QA ORTAMI,TEST ORTAMINA HOŞGELDİNİZ!"
   contactDetails:
     name: "Tarık Hamarat"
     email: "trkhamarat@gmail.com"
