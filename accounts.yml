@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "PROD ORTAMI HOŞGELDİNİZ"
+  message: "POD ORTAMI HOŞGELDİNİZ"
   contactDetails:
     name: "Tarık Hamarat"
     email: "trkhamarat@gmail.com"
