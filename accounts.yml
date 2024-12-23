@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "PROD TEST ORTAMINA HOŞGELDİNİZ!!!"
+  message: "PROD TEST ORTAMINA HOŞGELDİNİZ"
   contactDetails:
     name: "Tarık Hamarat"
     email: "trkhamarat@gmail.com"
