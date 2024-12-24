@@ -9,3 +9,8 @@ accounts:
   onCallSupport:
     -(QQQ)555-1234
     -(QQQ)523-1345
+
+logging:
+  level:
+    org.springframework.cloud: DEBUG
+    org.springframework.boot.context.config: DEBUG
