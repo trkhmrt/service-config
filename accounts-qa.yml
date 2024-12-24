@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "QA ORTAMINA HOŞGELDİN BROTHER!!s"
+  message: "QA ORTAMINA HOŞGELDİN BROTHER"
   contactDetails:
     name: "Tarık Hamarat"
     email: "{cipher}b231edb04c4d68c0be8760efe15703493fd9d96143674611a1bfb0dca7146988e1707fb87e9c7a279beaaf1d0f650641"
