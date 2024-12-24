@@ -2,7 +2,7 @@ https://github.com/trkhmrt/service-config/blob/main/accounts.ymlbuild:
   version: "1.0"
 
 accounts:
-  message: "PRODS ORTAMINA HOŞGELDİNİZ"
+  message: "PRODS ORTAMINA HOŞGELDİNİN"
   contactDetails:
     name: "Tarık Hamarat"
     email: "trkhamarat@gmail.com"
