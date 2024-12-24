@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "PRODS ORTAMINA HOŞGELDİNİZ"
+  message: "PROD ORTAMINA HOŞGELDİNİZ"
   contactDetails:
     name: "Tarık Hamarat"
     email: "trkhamarat@gmail.com"
