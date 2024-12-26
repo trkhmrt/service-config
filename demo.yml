@@ -1,6 +1,3 @@
-https://github.com/trkhmrt/service-config/blob/main/accounts.ymlbuild:
-  version: "1.0"
-
 demo:
   message: "PROD ORTAMINA HOŞGELDİN!!"
   contactDetails:
