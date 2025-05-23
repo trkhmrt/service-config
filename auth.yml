@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+
+auth:
+  message: "Auth Servisi PROD"
+
+logging:
+  level:
+    org.springframework.cloud: DEBUG
+    org.springframework.boot.context.config: DEBUG
