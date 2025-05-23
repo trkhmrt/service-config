@@ -1,7 +1,7 @@
 build:
   version: "2.0"
 
-authservice:
+auth:
   message: "Auth Servisi PROD!!"
 
 logging:
